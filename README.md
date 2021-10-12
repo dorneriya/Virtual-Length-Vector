@@ -4,3 +4,5 @@
  
  This data structure is implemented so that it can work with the generic algorithms of The C ++ Standard Template Library,
  such as search, sort, etc.
+
+ The VLVector support the API of std::vector.
